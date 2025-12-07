@@ -1,0 +1,25 @@
+/.idea/
+*.iml
+/.vscode/
+
+# Build outputs
+/foovar/target/
+**/target/
+/.gradle/
+/build/
+
+# Logs
+/logs/
+*.log
+
+# OS files
+/.DS_Store
+/Thumbs.db
+
+# Env files
+/.env
+/.env.*
+*.local
+
+# Spring tooling
+/.springBeans
