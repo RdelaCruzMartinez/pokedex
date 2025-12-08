@@ -1,4 +1,4 @@
-# foovar
+# pokedex
 
 A REST service that does a CRUD over a database in memory
 
