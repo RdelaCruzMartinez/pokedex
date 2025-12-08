@@ -3,7 +3,7 @@
 /.vscode/
 
 # Build outputs
-/foovar/target/
+/pokedex/target/
 **/target/
 /.gradle/
 /build/
