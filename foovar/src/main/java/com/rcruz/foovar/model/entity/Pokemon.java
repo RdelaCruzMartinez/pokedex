@@ -4,12 +4,12 @@ import lombok.Getter;
 import lombok.Setter;
 import org.springframework.lang.Nullable;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-import javax.validation.constraints.NotEmpty;
-import javax.validation.constraints.NotNull;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.validation.constraints.NotEmpty;
+import jakarta.validation.constraints.NotNull;
 
 @Entity
 @Getter @Setter
@@ -44,7 +44,6 @@ public class Pokemon {
     public Pokemon(String name, String typeOne, String typeTwo, int hp, int generation, boolean legendary) {
         this.name = name;
         this.typeOne = typeOne;
-        this.typeTwo = typeTwo;
         this.typeTwo = typeTwo;
         this.hp = hp;
         this.generation = generation;
