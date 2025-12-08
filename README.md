@@ -1,16 +1,16 @@
-# foovar
+# pokedex
 
 A REST service that does a CRUD over a database in memory
 
 - Prerequisites/technologies:
 
-  Java 1.8
+  Java 21
   
-  Spring Boot 2.2.4
+  Spring Boot 3.3.0
   
   Maven
   
-  lombok 1.18.10
+  lombok 1.18.34
   
   Swagger 2.9.2
 
