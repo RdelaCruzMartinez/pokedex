@@ -10,9 +10,9 @@
     </parent>
 
     <groupId>com.rcruz</groupId>
-    <artifactId>foovar</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
-    <name>foovar</name>
+    <artifactId>pokedex</artifactId>
+    <version>1.0.1-SNAPSHOT</version>
+    <name>pokedex</name>
     <description>Technical test</description>
 
     <properties>
