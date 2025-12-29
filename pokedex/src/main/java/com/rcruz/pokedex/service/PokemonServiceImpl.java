@@ -1,7 +1,7 @@
-package com.rcruz.foovar.service;
+package com.rcruz.pokedex.service;
 
-import com.rcruz.foovar.model.dao.PokemonDAO;
-import com.rcruz.foovar.model.entity.Pokemon;
+import com.rcruz.pokedex.model.dao.PokemonDAO;
+import com.rcruz.pokedex.model.entity.Pokemon;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
