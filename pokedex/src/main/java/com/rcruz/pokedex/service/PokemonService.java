@@ -1,7 +1,7 @@
-package com.rcruz.foovar.service;
+package com.rcruz.pokedex.service;
 
 
-import com.rcruz.foovar.model.entity.Pokemon;
+import com.rcruz.pokedex.model.entity.Pokemon;
 
 import java.util.List;
 

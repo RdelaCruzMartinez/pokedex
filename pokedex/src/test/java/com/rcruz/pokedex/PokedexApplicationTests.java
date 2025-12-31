@@ -1,4 +1,4 @@
-package com.rcruz.foovar;
+package com.rcruz.pokedex;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

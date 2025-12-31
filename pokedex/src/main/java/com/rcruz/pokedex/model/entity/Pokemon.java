@@ -1,4 +1,4 @@
-package com.rcruz.foovar.model.entity;
+package com.rcruz.pokedex.model.entity;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,7 +1,7 @@
-package com.rcruz.foovar.controller;
+package com.rcruz.pokedex.controller;
 
-import com.rcruz.foovar.model.entity.Pokemon;
-import com.rcruz.foovar.service.PokemonServiceImpl;
+import com.rcruz.pokedex.model.entity.Pokemon;
+import com.rcruz.pokedex.service.PokemonServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
